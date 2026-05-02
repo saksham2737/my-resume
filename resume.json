@@ -1,0 +1,53 @@
+{
+  "name": "Arjun Mehta",
+  "title": "Full Stack Engineer",
+  "summary": "Passionate engineer with 3 years of experience building scalable web applications. Focused on clean architecture, developer experience, and shipping products that matter.",
+  "experience": [
+    {
+      "company": "Razorpay",
+      "role": "Software Engineer II",
+      "duration": "Jan 2023 – Present",
+      "points": [
+        "Reduced payment checkout latency by 40% through API response caching and frontend optimizations.",
+        "Led migration of legacy PHP modules to Node.js microservices, improving deployment frequency by 3x.",
+        "Mentored 2 junior engineers and established team code review standards."
+      ]
+    },
+    {
+      "company": "Juspay",
+      "role": "Software Engineer I",
+      "duration": "Jun 2021 – Dec 2022",
+      "points": [
+        "Built real-time transaction monitoring dashboard used by 50+ operations staff.",
+        "Integrated 4 new payment gateway providers, expanding merchant coverage.",
+        "Wrote load tests that uncovered a critical race condition before production rollout."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NIT Trichy",
+      "degree": "B.Tech in Computer Science",
+      "duration": "2017 – 2021",
+      "grade": "8.7 CGPA"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "AWS",
+    "System Design",
+    "Git"
+  ],
+  "contact": {
+    "email": "arjun.mehta@email.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "linkedin.com/in/arjunmehta",
+    "github": "github.com/arjunmehta"
+  }
+}
